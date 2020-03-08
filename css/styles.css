@@ -29,6 +29,7 @@ body.active {
   -o-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
+	padding: 10px;
 }
 
 .no-js #experience-timeline>div {
