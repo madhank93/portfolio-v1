@@ -21,15 +21,9 @@ body.active {
 
 .circular--square {
 	vertical-align: middle;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
-	-webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  transform: rotate(90deg);
-	padding: 10px;
 }
 
 .no-js #experience-timeline>div {
