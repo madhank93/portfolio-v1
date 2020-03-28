@@ -40,7 +40,6 @@ body.active {
 .social-new {
 	justify-content: space-around;
 	text-align: center;
-	padding-left: 3em;
 }
 
 .social-new ul {
@@ -50,6 +49,7 @@ body.active {
 
 .social-new li {
 	display: inline-block;
+	padding-left: 3em;
 	height: 3.5rem;
 	width: 3.5rem;
 	font-size: 1.25em;
