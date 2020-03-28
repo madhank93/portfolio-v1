@@ -48,6 +48,8 @@ body.active {
 
 .social-new li {
 	display: inline-block;
+	height: 3.5rem;
+	width: 3.5rem;
 	font-size: 1.25em;
 	list-style: none
 }
