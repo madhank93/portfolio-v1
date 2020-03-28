@@ -19,6 +19,18 @@ body.active {
 	z-index: -1
 }
 
+.column {
+	float: left;
+	width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
+
 .social-new {
 	justify-content: space-around;
 	text-align: center;
