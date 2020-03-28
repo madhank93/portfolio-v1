@@ -39,7 +39,8 @@ body.active {
 
 .social-new {
 	justify-content: space-around;
-	text-align: center
+	text-align: center;
+	padding-left: 3em;
 }
 
 .social-new ul {
