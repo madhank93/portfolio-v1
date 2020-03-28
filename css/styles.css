@@ -38,6 +38,7 @@ body.active {
   }
 
 .social-new {
+	justify-content: space-around;
 	text-align: center
 }
 
