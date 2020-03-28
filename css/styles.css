@@ -19,10 +19,6 @@ body.active {
 	z-index: -1
 }
 
-.spacer {
-	margin-top:20px;
-  }
-
 .social-new {
 	justify-content: space-around;
 	text-align: center;
