@@ -19,6 +19,24 @@ body.active {
 	z-index: -1
 }
 
+.social-icons {
+	text-align: center;
+	max-width: 400px;
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+  }
+  
+  .social-icons a {
+	display: inline-block;
+	height: 3.5rem;
+	width: 3.5rem;
+	border-radius: 100%;
+	text-align: center;
+	font-size: 1.5rem;
+	line-height: 3.5rem;
+  }
+
 .circular--square {
 	vertical-align: middle;
   width: 200px;
