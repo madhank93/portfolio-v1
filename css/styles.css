@@ -22,6 +22,7 @@ body.active {
 .column {
 	float: left;
 	width: 33.33%;
+	column-gap: 40px;
   }
   
   /* Clear floats after the columns */
