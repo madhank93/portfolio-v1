@@ -37,6 +37,31 @@ body.active {
 	line-height: 3.5rem;
   }
 
+.social-new {
+	text-align: center
+}
+
+.social-new ul {
+	margin: 5px 0 0 0;
+	padding: 0
+}
+
+.social-new li {
+	display: inline-block;
+	font-size: 1.25em;
+	list-style: none
+}
+
+.social-new a {
+	display: block;
+	color: #74808a;
+	padding: 10px
+}
+
+.social-new a:hover {
+	color: #3498db
+}
+
 .circular--square {
 	vertical-align: middle;
   width: 200px;
