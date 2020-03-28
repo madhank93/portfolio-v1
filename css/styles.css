@@ -43,7 +43,7 @@ body.active {
 }
 
 .social-new a:hover {
-	color: #3498db
+	color: hsl(0, 0%, 2%)
 }
 
 .circular--square {
