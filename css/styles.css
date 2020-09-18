@@ -460,6 +460,10 @@ footer {
 	left: 303px
 }
 
+.typewrite {
+	color: whitesmoke;
+}
+
 .vtimeline-content {
 	margin-left: 350px;
 	background: #fff;
