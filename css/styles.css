@@ -72,10 +72,10 @@ html{
 
 .circular--square {
 	vertical-align: middle;
-  width: 200px;
-  height: 200px;
+  width: 225px;
+  height: 225px;
   border-radius: 50%;
-  padding-bottom: 25px;
+  
 }
 
 .no-js #experience-timeline>div {
@@ -322,7 +322,8 @@ footer {
 	height: 100vh;
 	min-height: 500px;
 	max-height: 1080px;
-	background: url(../images/lead-bg.jpg);
+	align-content: center;
+	background: url(../images/background.svg);
 	background-size: cover;
 	padding: 15px;
 	overflow: hidden
